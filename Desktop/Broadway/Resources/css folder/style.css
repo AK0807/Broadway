@@ -1,9 +1,9 @@
 body {text-align:center;
   h1{font-size:70px;
     font-weight: bold;
-    color:white;
+    color:black;
     font-family: helvetica;}
-h1, .Home, .About {background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");}
+h1 {background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");}
 h2 {font-size:32px;
   font-weight: bold;
   font-family: helvetica;}
